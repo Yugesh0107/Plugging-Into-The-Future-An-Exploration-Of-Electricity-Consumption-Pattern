@@ -5,4 +5,4 @@ Dashboard Public Link - https://public.tableau.com/views/PluggingintotheFutureAn
 
 Stroy Public Link - https://public.tableau.com/views/PluggingintotheFutureAnExplorationofElectricityConsumptionPattern/StoryonPluggingintotheFutureAnExplorationofElectricityConsumptionPatterns?:language=en-GB&:display_count=n&:origin=viz_share_link
 
-Video Demonstration = 
+Video Demonstration - https://drive.google.com/file/d/1JxIkHNwXxjFztKq7ad0_KtkukCqTckNy/view?usp=sharing 
